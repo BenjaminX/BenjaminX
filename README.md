@@ -75,14 +75,14 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BenjaminX)](https://github.com/BenjaminX) [![React](https://img.shields.io/badge/-iOS-black?style=flat&logo=ios&link=https://github.com/BenjaminX)](https://github.com/BenjaminX) [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
+[![Docker](https://img.shields.io/badge/-Docker-orange?style=flat&logo=docker&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 [![K8s](https://img.shields.io/badge/-K8s-black?style=flat&logo=Kubernetes&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/BenjaminX)](https://github.com/BenjaminX) [![MySQL](https://img.shields.io/badge/-MySQL-E34F26?style=flat&logo=mysql&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 [![mongoDB](https://img.shields.io/badge/-mongoDB-black?style=flat&logo=mongodb&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 [![Redis](https://img.shields.io/badge/-Redis-336791?style=flat&logo=redis&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
+[![Git](https://img.shields.io/badge/-Git-red?style=flat&logo=git&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 
