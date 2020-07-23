@@ -92,6 +92,9 @@
 |       **[Benjamin Zhong](http://benjaminzhong.com/)**       |
 |<a href="https://twitter.com/BenjaminZhong"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" height="30px"></a> <a href="https://github.com/BenjaminX"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30px" height="30px"></a> <a href="https://www.instagram.com/benjaminzhong/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" height="30px"></a> <a href="https://www.linkedin.com/in/xgodspeedx/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" height="30px"></a>|
 
+#### Contact Me 📫
+- Blog - [Ben](http://benjaminzhong.com)
+
 ### My GitHub Stats (Only Public Contributions 😑)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BenjaminX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
