@@ -3,8 +3,6 @@
 * I am a developer/geek/3Cfans from ChengDu, China. The home of the world's most famous panda. 🐼
 * Work on free-lance projects and love to contribute to open source projects. 💡
 
-<br>
-
 ### Tech Stack 💻
 
 <table>
@@ -80,8 +78,6 @@
 </tbody>
 </table>
 
-<br>
-
 ### Languages and Tools ✍️
 
 [![C#](https://img.shields.io/badge/-CSharp-black?style=flat&logo=C#)](https://github.com/BenjaminX) [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
@@ -101,7 +97,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/BenjaminX)](https://github.com/BenjaminX) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 
-<br>
 ### Reach out to me 👓
 
 | <a href="http://benjaminzhong.com/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="180px" height="180px" /></a> |
@@ -109,7 +104,6 @@
 |       **[Benjamin Zhong](http://benjaminzhong.com/)**       |
 |<a href="https://twitter.com/BenjaminZhong"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" height="30px"></a> <a href="https://github.com/BenjaminX"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30px" height="30px"></a> <a href="https://www.instagram.com/benjaminzhong/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" height="30px"></a> <a href="https://www.linkedin.com/in/xgodspeedx/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" height="30px"></a>|
 
-<br>
-### My GitHub Stats(Only Public Contributions 😑) -
-  
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=BenjaminX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+### My GitHub Stats (Only Public Contributions 😑)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BenjaminX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
