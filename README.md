@@ -68,7 +68,7 @@
 
 ### Languages and Tools ✍️
 
-[![C#](https://img.shields.io/badge/-CSharp-563D7C?style=flat&logo=C#)](https://github.com/BenjaminX) [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
+[![C#](https://img.shields.io/badge/-CSharp-336791?style=flat&logo=C#)](https://github.com/BenjaminX) [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 [![Ruby](https://img.shields.io/badge/-Ruby-563D7C?style=flat&logo=ruby&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FCA121?style=flat&logo=javascript&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/BenjaminX)](https://github.com/BenjaminX) 
@@ -78,9 +78,9 @@
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 [![K8s](https://img.shields.io/badge/-K8s-black?style=flat&logo=Kubernetes&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/BenjaminX)](https://github.com/BenjaminX) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/BenjaminX)](https://github.com/BenjaminX) [![MySQL](https://img.shields.io/badge/-MySQL-E34F26?style=flat&logo=mysql&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 [![mongoDB](https://img.shields.io/badge/-mongoDB-black?style=flat&logo=mongodb&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
+[![Redis](https://img.shields.io/badge/-Redis-336791?style=flat&logo=redis&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/BenjaminX)](https://github.com/BenjaminX)
