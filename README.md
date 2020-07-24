@@ -9,57 +9,57 @@
 <tbody>
 <tr>
 <td align="center" width="20%">
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/aws.png?raw=true"> 
 </td>
 
 <td align="center" width="20%">
-<img height=60px src="https://avatars2.githubusercontent.com/u/941070?s=200&v=4"> 
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/alicloud.png?raw=true"> 
 </td>
 
 <td align="center" width="20%">
-<img height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<img height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> 
-</td>
-
-<td align="center" width="20%">
-<img height=60px src="https://avatars2.githubusercontent.com/u/210414?s=200&v=4"> 
-</td>
-
-<td align="center" width="20%">
-<img height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/azure.png?raw=true"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<img height=60px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/csharp.png?raw=true"> 
 </td>
 
 <td align="center" width="20%">
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/ruby.png?raw=true"> 
 </td>
 
 <td align="center" width="20%">
-<img height=60px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/javascript.png?raw=true"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/k8s.png?raw=true"> 
+</td>
+
+<td align="center" width="20%">
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/docker.png?raw=true"> 
+</td>
+
+<td align="center" width="20%">
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/git.png?raw=true"> 
 </td>    
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/linux.png?raw=true"> 
 </td>
 
 <td align="center" width="20%">
-<img height=60px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/nginx.png?raw=true"> 
 </td>
 
 <td align="center" width="20%">
-<img height=60px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/sql.jpeg?raw=true"> 
 </td>
 </tr>
 
