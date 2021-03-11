@@ -9,7 +9,7 @@
 <tbody>
 <tr>
 <td align="center" width="20%">
-<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/aws.png?raw=true"> 
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/aws.jpg?raw=true"> 
 </td>
 
 <td align="center" width="20%">
@@ -37,7 +37,7 @@
 
 <tr>
 <td align="center" width="20%">
-<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/k8s.png?raw=true"> 
+<img height=60px src="https://github.com/BenjaminX/BenjaminX/blob/master/images/k8s.jpg?raw=true"> 
 </td>
 
 <td align="center" width="20%">
