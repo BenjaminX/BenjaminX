@@ -88,7 +88,7 @@
 
 ### Reach out to me 👓
 
-| <a href="http://benjaminzhong.com/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="180px" height="180px" /></a> |
+| <a href="http://benjaminzhong.com/"><img src="https://image.flaticon.com/icons/png/512/560/560277.png" width="180px" height="180px" /></a> |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Benjamin Zhong](http://benjaminzhong.com/)**       |
 |<a href="https://twitter.com/BenjaminZhong"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" height="30px"></a> <a href="https://github.com/BenjaminX"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30px" height="30px"></a> <a href="https://www.instagram.com/benjaminzhong/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" height="30px"></a> <a href="https://www.linkedin.com/in/xgodspeedx/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" height="30px"></a>|
